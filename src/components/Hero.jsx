@@ -2,7 +2,7 @@ const HeroSection = () => {
   return (
     <main className="hero container">
       <div className="hero-content">
-        <h1>Aman Bhatti</h1>
+        <h1>Aman Bhatti B.Tech</h1>
         <p>
           
 I am a computer science engineering student at Chandigarh University, who is always excited to face new challenges and meet other people, make new connections, and learn more and more from others' experiences and failures.
