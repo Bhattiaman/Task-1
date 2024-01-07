@@ -10,8 +10,8 @@ I am a computer science engineering student at Chandigarh University, who is alw
         </p>
 
         <div className="hero-btn">
-          <button>React js</button>
-          <button className="secondary-btn">Now</button>
+          <button className="bt">React js</button>
+          <button className="secondary-btn  bt">Now</button>
         </div>
 
         <div className="shopping">
