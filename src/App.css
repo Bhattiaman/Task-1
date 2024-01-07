@@ -30,7 +30,10 @@ nav {
   height: 72px;
   align-items: center;
 }
-
+.herr{
+      border-radius: 196px;
+      width: 100%;
+}
 nav ul {
   display: flex;
   list-style: none;
@@ -50,7 +53,7 @@ nav ul {
 .hero h1 {
   font-weight: 800;
   line-height: 102px;
-  font-size: 108px;
+  font-size: 70px;
 }
 .hero p {
   font-weight: 600;
