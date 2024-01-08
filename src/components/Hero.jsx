@@ -15,12 +15,8 @@ I am a computer science engineering student at Chandigarh University, who is alw
         </div>
 
         <div className="shopping">
-          <p>Also Available On</p>
+          <p></p>
 
-          <div className="brand-icons">
-            <img src="/images/amazon.png" alt="amazon-logo" />
-            <img src="/images/flipkart.png" alt="flipkart-logo" />
-          </div>
         </div>
       </div>
       <div className="hero-image">

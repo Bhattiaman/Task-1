@@ -7,6 +7,9 @@
 * {
   margin: 0;
 }
+.log{
+  width: 80px;
+}
 .bt{
   border-radius:25px;
 }
@@ -71,6 +74,7 @@ nav ul {
 .hero-btn button {
   font-size: 24px;
 }
+
 .secondary-btn {
   background: transparent;
   color: var(--gray);
@@ -84,4 +88,46 @@ nav ul {
 .brand-icons {
   display: flex;
   gap: 16px;
+}
+
+
+
+
+/* Your existing CSS styles */
+
+/* Responsive styles for phones */
+@media (max-width: 480px) {
+  .container {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+  }
+
+  .menu {
+    display: none;
+    width: 100%;
+    text-align: left;
+    padding: 10px 0;
+  }
+
+  .menu.open {
+    display: block;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    margin: 10px 0;
+  }
+
+  li {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .bt {
+    margin-top: 10px;
+  }
 }
