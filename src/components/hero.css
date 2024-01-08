@@ -1,0 +1,17 @@
+
+  /* Media Query for Responsive Design */
+  @media (max-width: 468px) {
+    .hero {
+      flex-direction: column-reverse;
+      align-items: center;
+    }
+  
+    .hero-content {
+      text-align: center;
+    }
+  
+    .hero-content h1 {
+      font-size: 2rem;
+    }
+  }
+  

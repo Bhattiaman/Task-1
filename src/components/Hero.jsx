@@ -1,3 +1,4 @@
+import "../components/hero.css";
 const HeroSection = () => {
   return (
     <main className="hero container">
